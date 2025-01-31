@@ -1,2 +1,1 @@
-pandas profile
-pip install ydata-profiling
+pip install streamlit seaborn streamlit-multipage matplotlib
